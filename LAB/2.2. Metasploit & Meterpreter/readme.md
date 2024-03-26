@@ -30,4 +30,44 @@ Có thể đổi tên session:
 
 ![image](https://github.com/NVex0/Kiem_thu_va_danh_gia_ATHT/assets/113530029/c1a44ce2-1a0d-40d5-b25b-9e9285a0e1c1)
 
+Info:
+
+![image](https://github.com/NVex0/Kiem_thu_va_danh_gia_ATHT/assets/113530029/ade183ff-e2d4-43c6-8c58-9ef7a782cf05)
+![image](https://github.com/NVex0/Kiem_thu_va_danh_gia_ATHT/assets/113530029/40f3c3e8-3923-4f88-8d4e-be45d6f4be56)
+
+Process info:
+
+![image](https://github.com/NVex0/Kiem_thu_va_danh_gia_ATHT/assets/113530029/850300ba-3652-4c4d-8950-73342abdc85b)
+
+Find icecast trong proclist:
+
+![image](https://github.com/NVex0/Kiem_thu_va_danh_gia_ATHT/assets/113530029/09711d4b-6ff0-47e3-b1a5-cdec3ba803e4)
+
+Gain shell bằng `shell` trên meterpreter, sau đó dùng mấy command check info: `net user`, `hostname`, `ipconfig`.
+
+Thêm user làm backdoor vào:
+
+![image](https://github.com/NVex0/Kiem_thu_va_danh_gia_ATHT/assets/113530029/d9ef4998-a8f4-45a2-a024-a1d3926c3ecb)
+
+Nâng quyền backdoor user bằng cách Add user vào local admin group:
+
+![image](https://github.com/NVex0/Kiem_thu_va_danh_gia_ATHT/assets/113530029/c00a74af-9b83-4e82-bb60-1b313d9c906e)
+
+del acc:
+
+![image](https://github.com/NVex0/Kiem_thu_va_danh_gia_ATHT/assets/113530029/a35d8e72-2512-438b-82ab-ce4fa019eb69)
+
+chụp màn hình máy victim:
+
+![image](https://github.com/NVex0/Kiem_thu_va_danh_gia_ATHT/assets/113530029/23f4cc5b-e89c-494f-9211-c81044945c61)
+![image](https://github.com/NVex0/Kiem_thu_va_danh_gia_ATHT/assets/113530029/34bb266a-fa2e-47d8-b8a4-e3831979942c)
+
+Search và sử dụng proc explorer.exe:
+
+![image](https://github.com/NVex0/Kiem_thu_va_danh_gia_ATHT/assets/113530029/c8b241a9-8d7d-438f-8e1d-6610d6342dad)
+
+Keylogging:
+
+![image](https://github.com/NVex0/Kiem_thu_va_danh_gia_ATHT/assets/113530029/7d935e3b-50f5-4c03-840b-455407b572eb)
+
 
