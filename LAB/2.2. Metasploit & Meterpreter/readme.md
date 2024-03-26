@@ -17,3 +17,17 @@ Và local host sang ip máy attacker:
 Run exploit và mở được session meterpreter:
 
 ![image](https://github.com/NVex0/Kiem_thu_va_danh_gia_ATHT/assets/113530029/e0edc1c7-b32b-41c3-bb9d-dd30922e1973)
+
+Có thể để meterpreter chạy background để làm việc khác:
+
+![image](https://github.com/NVex0/Kiem_thu_va_danh_gia_ATHT/assets/113530029/467e2d49-8ce5-4e97-a620-1ce034972584)
+
+Có thể đổi tên session:
+
+![image](https://github.com/NVex0/Kiem_thu_va_danh_gia_ATHT/assets/113530029/6a570341-a316-4078-81ea-73c5c043c561)
+
+Đi vào đấm tiếp session đang chạy background:
+
+![image](https://github.com/NVex0/Kiem_thu_va_danh_gia_ATHT/assets/113530029/c1a44ce2-1a0d-40d5-b25b-9e9285a0e1c1)
+
+
