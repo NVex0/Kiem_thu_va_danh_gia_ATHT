@@ -1,4 +1,4 @@
-Tới path của tool beroot và chạy executable:
+Login notadmin, tới path của tool beroot và chạy executable:
 
 ![image](https://github.com/NVex0/Kiem_thu_va_danh_gia_ATHT/assets/113530029/349a8497-f96a-48fb-aeb0-43756c11fd27)
 
@@ -29,6 +29,5 @@ Create thành công exe:
 
 Reboot và check:
 
-![image](https://github.com/NVex0/Kiem_thu_va_danh_gia_ATHT/assets/113530029/aededb0f-afb2-4c63-9aa6-b057e54de990)
-![image](https://github.com/NVex0/Kiem_thu_va_danh_gia_ATHT/assets/113530029/e5e8fe8e-af87-4960-9b33-4fead05c345b)
-
+![image](https://github.com/NVex0/Kiem_thu_va_danh_gia_ATHT/assets/113530029/3e2ddd5a-d29e-4ef4-a6c1-fb7aadb67cd4)
+![image](https://github.com/NVex0/Kiem_thu_va_danh_gia_ATHT/assets/113530029/e34fecb8-7509-4df7-9b1b-c633f59b89a9)
