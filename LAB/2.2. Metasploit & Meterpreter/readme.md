@@ -1,5 +1,3 @@
-## 1. Metasploit Linux.
-
 Grep module icecast và dùng 1 module trong mớ grep được:
 
 ![image](https://github.com/NVex0/Kiem_thu_va_danh_gia_ATHT/assets/113530029/d4cfecad-3edc-4b8b-9de6-8669fab4f514)
