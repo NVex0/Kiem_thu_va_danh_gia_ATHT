@@ -42,3 +42,16 @@ Sau đó del key trong registry đi là xong.
 
 ## WMI PERSISTENCE:
 
+Set persistence vào wmi:
+
+![image](https://github.com/NVex0/Kiem_thu_va_danh_gia_ATHT/assets/113530029/7937f94c-d40e-49dd-afc3-ab5f16053cab)
+
+Fake cred:
+
+![image](https://github.com/NVex0/Kiem_thu_va_danh_gia_ATHT/assets/113530029/7732eb14-601e-467c-90e5-bfd637e9b40e)
+
+Sliver server nhận connection:
+
+![image](https://github.com/NVex0/Kiem_thu_va_danh_gia_ATHT/assets/113530029/4cb3b018-fc85-44d6-8a05-8b4e5e0bab57)
+
+Vào session, và check info.
